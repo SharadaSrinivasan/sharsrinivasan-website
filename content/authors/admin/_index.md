@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sharada Srinivasan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Young Professional at the World Bank | CTIC Non-Resident Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: World Bank Group
+  url: https://www.worldbank.org/
+- name: University of Pennsylvania
+  url: https://www.law.upenn.edu/institutes/ctic/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: International Development Professional 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Digital Development
 - Computational Linguistics
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Micromasters in Statistics and Data Science
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020-present
+  - course: Master of Public Policy
+    institution: National Law School of India University, Bangalore
+    year: 2016
+  - course: Bachelor of Engineering in Electrical and Electronics
+    institution: Ramaiah Institute of Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +47,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/SharSrinivasan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sharada-srinivasan-world-bank/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
