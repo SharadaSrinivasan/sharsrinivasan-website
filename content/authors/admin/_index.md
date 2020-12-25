@@ -21,8 +21,8 @@ bio: International Development Professional
 # Interests to show in About widget
 interests:
 - Digital Development
-- Computational Linguistics
-- Information Retrieval
+- Data Governance
+- Social Inclusion
 
 # Education to show in About widget
 education:
