@@ -2,11 +2,11 @@
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- 1 World Connected
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "www.1worldconnected.org"
 
 image:
   caption: Photo by rawpixel on Unsplash
