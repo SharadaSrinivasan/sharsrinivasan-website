@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Events
 
 # View.
 #   1 = List
