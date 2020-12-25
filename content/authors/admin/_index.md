@@ -68,8 +68,8 @@ highlight_name: false
 
 I work at the intersection of technology, inclusion, and international development at the Digital Development Global Practice of the World Bank Group. I am passionate about understanding how investments in technology can advance human progress and expand opportunities for all, especially those most marginalized. 
 
-I help governments deploy digital infrastructure and services through financing and technical assistance. I study data governance frameworks in low- and middle-income countries broadly, and advise governments on data policies. Recently, I co-authored a background paper on data infrastructure for the World Development Report 2021: Data for Better Lives. 
+I help governments deploy digital infrastructure and services through financing and technical assistance. I study data governance frameworks in low- and middle-income countries broadly, and advise governments on data policies. Recently, I co-authored a background paper on data infrastructure for the [World Development Report 2021: Data for Better Lives](https://www.worldbank.org/en/publication/wdr2021). 
 
-As a Research Fellow at 1 World Connected, a global research project housed at the University of Pennsylvania, I study innovative initiatives that address supply-and demand-side challenges to improve broadband adoption.
+As a Research Fellow at [1 World Connected](https://1worldconnected.org/), a global Penn research project, I study innovative initiatives that address supply-and demand-side challenges to improve broadband adoption.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
