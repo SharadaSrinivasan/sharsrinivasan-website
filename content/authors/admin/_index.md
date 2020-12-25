@@ -27,9 +27,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Micromasters in Statistics and Data Science
-    institution: Massachusetts Institute of Technology
-    year: 2020-present
   - course: Master of Public Policy
     institution: National Law School of India University, Bangalore
     year: 2016
