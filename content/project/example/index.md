@@ -9,7 +9,7 @@ date: "2019-04-27T00:00:00Z"
 external_link: "www.1worldconnected.org"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo taken during fieldwork in Vanuatu
   focal_point: Smart
 
 links:
