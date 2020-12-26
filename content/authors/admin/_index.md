@@ -6,7 +6,7 @@ title: Sharada Srinivasan
 superuser: true
 
 # Role/position/tagline
-role: Young Professional at the World Bank & CTIC Non-Resident Research Fellow
+role: Digital Development Specialist (YP) & Non-Resident Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
