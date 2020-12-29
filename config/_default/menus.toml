@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Resources"
-  url = "#talks"
+  url = "https://criticalconnections.substack.com/"
   weight = 40
   
 [[main]]
