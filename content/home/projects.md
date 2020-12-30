@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 35
 
 title: Projects
-subtitle: ''
+subtitle: 'Research projects involving fieldwork'
 
 content:
   # Page type to display. E.g. project.
