@@ -7,7 +7,7 @@ date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: "www.1worldconnected.org"
+external_link: www.1worldconnected.org
 
 image:
   caption: Photo taken during fieldwork in Vanuatu
