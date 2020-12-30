@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: 1 World Connected
+summary: A global research project focused on innovative approaches to improve broadband adoption.
 tags:
-- Demo
+- Digital Development
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: http://www.1worldconnected.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo taken during fieldwork in Maewo, Vanuatu
   focal_point: Smart
 ---
