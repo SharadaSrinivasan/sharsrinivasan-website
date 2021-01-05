@@ -3,12 +3,12 @@ title: Working Group on Evidence-Based Research, Internet Inclusion Initiative
 event: IEEE Internet Inclusion - Advancing Solutions
 event_url: https://internetinitiative.ieee.org/events/conferences/internet-inclusion-advancing-solutions-washington-d-c-2017
 location: Washington, D.C.
-summary: 1 World Connected led the Working Group on Evidence-Based Research at the IEEE IIAS meeting. 
+summary: Helped convene the Working Group on Evidence-Based Research at the IEEE IIAS meetings between 2016 and 2018. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-04-24T00:00:00Z"
-date_end: "2017-04-25T00:00:00Z"
+date: "2016-04-12T00:00:00Z"
+date_end: "2018-10-25T00:00:00Z"
 all_day: true
 
 authors: []
@@ -32,6 +32,4 @@ projects: []
 math: true
 ---
 
-1 World Connected led the Working Group on Evidence-Based Research and Moderated Panel on Working Groups, at the IEEE Internet Inclusion - Advancing Solutions, sponsored by IEEE in collaboration with Guifi.net, Internet Society, ITU, Partnership for Public Access, People Centered Internet, USAID, the World Bank, and the World Economic Forum, in Washington D.C.
-
-Video: 
+1 World Connected led the Working Group on Evidence-Based Research and Moderated a Panel on Working Groups, at the IEEE Internet Inclusion - Advancing Solutions, sponsored by IEEE in collaboration with Guifi.net, Internet Society, ITU, Partnership for Public Access, People Centered Internet, USAID, the World Bank, and the World Economic Forum, in Washington D.C.
