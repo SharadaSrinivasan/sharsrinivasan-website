@@ -3,7 +3,7 @@ title: E4C Webinar
 event: E4C Webinar
 event_url: https://www.youtube.com/watch?v=Jfog4oI2WTc
 location: Online
-summary: Sharada Srinivasan presented to the Engineering 4 Change community through an online webinar in August 2017.
+summary: Presented to the Engineering 4 Change community through an online webinar in August 2017.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,6 +33,6 @@ math: true
 ---
 
 
-Sharada Srinivasan presented to the Engineering 4 Change community through an online webinar in August 2017.
+Presented to the Engineering 4 Change community through an online webinar in August 2017.
 
 
