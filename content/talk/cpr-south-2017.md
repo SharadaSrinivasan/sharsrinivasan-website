@@ -3,7 +3,7 @@ title: CPR South
 event: CPR South
 event_url: https://www.cprsouth.org/past-conferences/cprsouth-2017-connecting-next-billion/
 location: Yangon
-summary: Sharada Srinivasan was selected to participate as a Young Scholar at CPRSouth 2017. 
+summary: Participated as a Young Scholar at CPRSouth 2017. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +31,7 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-Sharada Srinivasan was selected to participate as a Young Scholar at CPRSouth 2017. 
+Participated as a Young Scholar at CPRSouth 2017. 
 
 
 
