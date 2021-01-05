@@ -3,7 +3,7 @@ title: United Nations Science, Technology and Innovation Forum
 event: Side Event on Community Networks
 event_url: https://sustainabledevelopment.un.org/TFM/STIForum2017
 location: New York
-summary: Sharada Srinivasan presented at the side event on Community Networks at the UN STI Forum in New York.
+summary: Presented at the side event on Community Networks at the UN STI Forum in New York.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,6 +32,5 @@ projects: []
 math: true
 ---
 
- Sharada Srinivasan presented at the side event on Community Networks at the UN STI Forum in New York.
 
 
