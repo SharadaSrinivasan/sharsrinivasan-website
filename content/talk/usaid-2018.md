@@ -3,7 +3,7 @@ title: USAID Digital Development Tuesdays
 event: USAID Digital Development Tuesdays
 event_url: 
 location: Washington, D.C.
-summary: Sharada Srinivasan presented work from 1 World Connected pertaining to design of telemedicine systems, based on her fieldwork in Maewo, Vanuatu
+summary: Presented work from 1 World Connected pertaining to design of telemedicine systems, based on fieldwork in Maewo, Vanuatu
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
