@@ -3,7 +3,7 @@ title: ICTDX 2019
 event: ICTDX 2019
 event_url: 
 location: Ahmedabad
-summary: Sharada Srinivasan attended ICTD X to present a poster on chat applications in telemedicine, based on her fieldwork with the Vanuatu Inter-island Telemedicine and Learning Project.
+summary: Presented a poster on chat applications in telemedicine, based on fieldwork with the Vanuatu Inter-island Telemedicine and Learning Project.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,5 +32,5 @@ projects: []
 math: true
 ---
 
-Sharada Srinivasan presented a poster titled "Chat Applications for Telemedicine" drawing upon her fieldwork in Vanuatu on the Vanuatu Inter-island telemedicine and learning project.
+Presented a poster titled "Chat Applications for Telemedicine" drawing upon fieldwork in Vanuatu on the Vanuatu Inter-island telemedicine and learning project.
 
