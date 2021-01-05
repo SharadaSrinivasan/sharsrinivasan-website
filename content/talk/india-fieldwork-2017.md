@@ -3,7 +3,7 @@ title: Field Work in India with Gram Marg
 event: Gram Marg
 event_url: 
 location: Mumbai
-summary: Sharada Srinivasan visited Gram Marg sites and conducted interviews in rural Maharashtra as well as in Mumbai, in June 2017. 
+summary: Visited Gram Marg sites in collaboration with scientists at Indian Institute of Technology, Bombay, and conducted interviews in rural Maharashtra as well as in Mumbai, in June 2017. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +31,5 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-
-Sharada Srinivasan visited Gram Marg sites and conducted interviews in rural Maharashtra as well as in Mumbai, in June 2017. 
 
 
