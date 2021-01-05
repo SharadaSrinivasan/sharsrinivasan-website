@@ -3,7 +3,7 @@ title: EQUALS Research Group Meeting 2017
 event: EQUALS Research Group Meeting 2017
 event_url: 
 location: Macau
-summary: Sharada Srinivasan attended the EQUALS research group meeting in 2017. 
+summary: Participated in EQUALS research group meeting in Macau, 2017. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
