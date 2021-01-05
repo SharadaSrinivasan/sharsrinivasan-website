@@ -3,7 +3,7 @@ title: Fieldwork in Vanuatu
 event: Fieldwork in Vanuatu
 event_url: 
 location: Maewo
-summary: Sharada Srinivasan conducted fieldwork on the VITAL project's pilot sites in Maewo, Vanuatu. 
+summary: Conducted fieldwork in Maewo, Vanuatu, in collaboration with the Vanuatu Inter-Island Telemedicine and Learning Project
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,6 +32,6 @@ projects: []
 math: true
 ---
 
-Sharada Srinivasan conducted fieldwork on the VITAL project's pilot sites in Maewo, Vanuatu. 
+
 
 
