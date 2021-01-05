@@ -3,12 +3,12 @@ title: Fieldwork in Rwanda
 event: Fieldwork in Rwanda
 event_url: 
 location: Rwanda
-summary: Conducted fieldwork in conjunction with a last mile Internet infrastructure service provider in Rwanda on unconnected sites. 
+summary: Conducted fieldwork in conjunction with a last mile Internet infrastructure service provider in Rwanda on unconnected sites in 2017 and 2019. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2017-08-11T00:00:00Z"
-date_end: "2017-09-06T00:00:00Z"
+date_end: "2019-09-06T00:00:00Z"
 all_day: true
 
 authors: []
