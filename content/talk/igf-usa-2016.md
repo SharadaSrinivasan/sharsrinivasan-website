@@ -3,7 +3,7 @@ title: IGF-USA 2016
 event: IGF-USA 2016
 event_url: https://www.igf-usa.org/igf-usa-2016/
 location: Washington, D.C.
-summary: Sharada Srinivasan participated at the IGF-USA in 2016, which featured panels on access and inclusion.
+summary: Participated at the IGF-USA in 2016, which featured panels on access and inclusion.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 links:
-url_video: ""
+url_video: "https://www.igf-usa.org/igf-usa-2016-video/"
 
 
 # Projects (optional).
