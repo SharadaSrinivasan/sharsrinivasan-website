@@ -1,5 +1,5 @@
 ---
-title: "Policy Options for Connecting and Enabling the Next Billions - Phase III Output Document."
+title: "Policy Options for Connecting and Enabling the Next Billions - Phase III Output Document"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publishDate: "2017-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * Internet Governance Forum*
+publication: In *Internet Governance Forum*
 publication_short: In *IGF*
 
 abstract: Connecting and Enabling the Next Billions - Phase III is a part of the Internet Governance Forum (IGF) intercessional work for 2017 that aims to supplement policy recommendations made in the first two phases conducted in 2015 and 2016 with concrete case studies that highlight ways in which community-level projects are progressing on key sustainable goals. This output document is an edited compilation of case studies that show how connectivity initiatives are helping countries and communities make progress on three key sustainable development goals – Sustainable Development Goals 4, 5 and 9 – collected using the IGF’s traditional bottom-up, multi-stakeholder consultative process. 
@@ -72,5 +72,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
