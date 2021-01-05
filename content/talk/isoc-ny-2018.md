@@ -3,7 +3,7 @@ title: IGF USA On the Road
 event: IGF USA On the Road
 event_url: 
 location: New York
-summary: Sharada Srinivasan presented on 1 World Connected at the ISOC-NY chapter's IGF-USA On the Road event in New York. 
+summary: Presented on 1 World Connected at the ISOC-NY chapter's IGF-USA On the Road event in New York. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,4 +32,4 @@ projects: []
 math: true
 ---
 
-Sharada Srinivasan presented on 1 World Connected at the ISOC-NY chapter's IGF-USA On the Road event in New York. 
+Presented on 1 World Connected at the ISOC-NY chapter's IGF-USA On the Road event in New York. 
