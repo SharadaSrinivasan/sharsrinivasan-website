@@ -3,7 +3,7 @@ title: Fieldwork in Rwanda
 event: Fieldwork in Rwanda
 event_url: 
 location: Rwanda
-summary: Sharada Srinivasan and Dr. Muge Haseki conducted fieldwork in conjunction with a last mile Internet infrastructure service provider in Rwanda on unconnected sites. 
+summary: Conducted fieldwork in conjunction with a last mile Internet infrastructure service provider in Rwanda on unconnected sites. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,4 +32,3 @@ projects: []
 math: true
 ---
 
-Sharada Srinivasan and Dr. Muge Haseki conducted fieldwork in conjunction with a last mile Internet infrastructure service provider in Rwanda on unconnected sites. 
