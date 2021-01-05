@@ -3,7 +3,7 @@ title: WEF-IADB Internet for All Meeting
 event: WEF IADB Internet for All Meeting 
 event_url: 
 location: Washington, D.C.
-summary: Sharada Srinivasan and Dr. Muge Haseki participated in an Internet for All meeting in Washington D.C. co-hosted by the IADB, the World Bank and the World Economic Forum.
+summary: Participated in an Internet for All meeting in Washington D.C. co-hosted by the IADB, the World Bank and the World Economic Forum.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,6 +32,6 @@ projects: []
 math: true
 ---
 
-Sharada Srinivasan and Dr. Muge Haseki participated in an Internet for All meeting in Washington D.C. co-hosted by the IADB, the World Bank and the World Economic Forum.
+
 
 
