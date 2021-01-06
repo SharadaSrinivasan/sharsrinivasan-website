@@ -7,7 +7,7 @@ title: "Politics of the Making and Unmaking of the Indian Planning Commission: D
 authors:
 - Sony Pellissery
 - admin
-- Chaitanya A.
+- Anusha Chaitanya 
 
 # Author notes (optional)
 author_notes:
@@ -44,11 +44,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.rstreet.org/wp-content/uploads/2016/03/RSTREETSHORT20.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://www.routledge.com/Transformative-Law-and-Public-Policy/Pellissery-Mathew-Govindjee-Narrain/p/book/9780367348298#:~:text='Grounded%20in%20empirical%20research%20and,policy%20in%20the%20developing%20world.'
 url_slides: ''
 url_source: ''
 url_video: ''
