@@ -69,4 +69,4 @@ I help governments deploy digital infrastructure and services through financing 
 
 As a Research Fellow at [1 World Connected](https://1worldconnected.org/), a global Penn research project, I study innovative initiatives that address supply-and demand-side challenges to improve broadband adoption.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "SharadaSrinivasan_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
