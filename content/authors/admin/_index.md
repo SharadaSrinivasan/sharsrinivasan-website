@@ -6,7 +6,7 @@ title: Sharada Srinivasan
 superuser: true
 
 # Role/position/tagline
-role: Digital Development Specialist (YP) & Non-Resident Research Fellow
+role: DPhil Candidate, University of Oxford & Digital Development Specialist (on leave)
 
 # Organizations/Affiliations to show in About widget
 organizations:
