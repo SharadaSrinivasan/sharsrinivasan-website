@@ -6,10 +6,13 @@ title: Sharada Srinivasan
 superuser: true
 
 # Role/position/tagline
-role: DPhil Candidate, University of Oxford & Digital Development Specialist (on leave)
+role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: University of Oxford
+  url: 
+
 - name: World Bank Group
   url: https://www.worldbank.org/
 - name: University of Pennsylvania
